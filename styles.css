@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+
+.card-container{
+    padding: 30px;
+}
+
+.card{
+    
+}
+
+.card_header{
+    background-image: url('images/pattern-bg.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.card_image{
+    max-width: 50%;
+}
