@@ -1,0 +1,27 @@
+{
+  "name": "coding-bootcamp-testimonials-slider",
+  "version": "1.0.0",
+  "description": "![Design preview for the Coding bootcamp testimonials slider coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "eslint": "eslint --ext .js src/ test/",
+    "pretest": "npm run eslint && npm run htmlhint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarytereBenavides/coding-bootcamp-testimonials-slider.git"
+  },
+  "author": "Marytere Benavides Pezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarytereBenavides/coding-bootcamp-testimonials-slider/issues"
+  },
+  "homepage": "https://github.com/MarytereBenavides/coding-bootcamp-testimonials-slider#readme",
+  "dependencies": {
+    "editorconfig": "^0.15.3",
+    "eslint": "^7.23.0",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  }
+}
